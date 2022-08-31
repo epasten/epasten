@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @epasten
-- 👀 I’m interested in coding ML with python
-- 🌱 I’m currently learning how to apply ML to different experiments on climate model ouputs and hydroclimate analysis
-- 💞️ I’m looking to collaborate on the development of scripts related to hydrology, climate change, etc.
+- 👀 I’m interested in coding python interactive plots
 - 📫 How to reach me ernesto.pasten@uef.fi
 
 <!---
