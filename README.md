@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @epasten
 - 👀 I’m interested in coding python interactive plots
-- 📫 How to reach me ernesto.pasten@uef.fi
+- 📫 How to reach me ernesto.pasten@gtk.fi
 
 <!---
 epasten/epasten is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
